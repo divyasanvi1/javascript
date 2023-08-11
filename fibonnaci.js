@@ -16,8 +16,8 @@ function fibonacciGenerator (n) {
             {
             arr1.push(arr1[arr1.length-2]+arr1[arr1.length-1]);
             }
-            console.log( arr1);
+            console.log(arr1);
             
     }
-    fibonacciGenerator (4);
+    fibonacciGenerator (n);
     
