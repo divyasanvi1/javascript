@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(152, 181, 162);
+}
+h1{
+    font-size: 8rem;
+    margin :30px;
+    color: rgb(44, 81, 44);
+    font-family: 'Barriecito', cursive;
+}
+.container{
+     width:80%;
+    margin:auto; 
+    text-align: center;
+}
+ .dice{
+    display: inline-block;
+   
+    font-family: 'Indie Flower', cursive;
+   
+} 
+p{
+    font-size: 2rem;
+}
+img{
+    width:80%;
+}
+footer{
+    margin-top: 5%;
+    text-align: center;
+}
