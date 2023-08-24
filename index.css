@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(65, 105, 105);
+}
+h1{
+    text-align: center;
+    font-size: 5rem;
+    text-shadow: 2px 2px 8px red;
+}
+.container{
+    margin:auto;
+}
+.sound{
+    display:flex;
+    gap:100px;
+    flex-basis: 100px;
+    margin-left: 15%;
+}
+
+.sound>*{
+  background-color: aliceblue;
+  font-size: 50px;
+  color:palevioletred;
+  flex-basis: 50px;
+   /* padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 40px;  */
+  
+}
+footer{
+    text-align: center;
+    margin-top: 5%;
+}
